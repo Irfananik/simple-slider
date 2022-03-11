@@ -17,4 +17,4 @@ setInterval(() => {
     const imageUrl = imageArray[imageIndex]
     imageSlide.setAttribute('src', imageUrl)
     imageIndex++
-}, 2000)
+}, 1000)
